@@ -1,0 +1,17 @@
+﻿{ "american": {
+    "grapes": "🍇",
+    "strawberry": "🍓",
+    "peach": "🍑",
+    "cherries": "🍒",
+    "watermelon": "🍉",
+    "pear": "🍐"
+  },
+  "german": {
+    "Weintrauben": "🍇",
+    "Erdbeere": "🍓",
+    "Pfirsich": "🍑",
+    "Kirschen": "🍒",
+    "Wassermelone": "🍉",
+    "Birne": "🍐"
+  }
+}
