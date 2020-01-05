@@ -1,0 +1,37 @@
+{ "name": "read-data-directory-hierarchy-pmb",
+  "version": "0.0.1",
+  "description": "Read a all data files into an object that mimics the directory hierarchy.",
+  "keywords": [
+    "data",
+    "directory",
+    "file",
+    "hierarchy"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/read-data-directory-hierarchy-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/read-data-directory-hierarchy-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/read-data-directory-hierarchy-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "rddh.mjs",
+  "bin": "cli.mjs",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+    "nofs": "^0.11.22"
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
